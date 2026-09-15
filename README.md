@@ -2,7 +2,7 @@
 
 Simple numerical integration routines in Python. 
 
-Default method: Simpson
+Default method: Gauss-Legendre
 
 Maintained by yongao.
 

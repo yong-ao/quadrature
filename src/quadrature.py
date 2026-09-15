@@ -6,6 +6,8 @@ def trapezoid(f, a, b, n):
         s += f(a + i*h)
     return h * s
 
+# this is a test
+
 def simpson(f, a, b, n):
     """Approximate the integral of f over [a, b] using Simpson's rule.
 
